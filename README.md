@@ -1,4 +1,4 @@
-<h1 align="center">moveis_play</h1>
+<h1 align="center">Circle Reveal - Flutter Challage</h1>
 
 ## Descrição do Projeto
 
