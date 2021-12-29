@@ -1,9 +1,5 @@
 <h1 align="center">Circle Reveal - Flutter Challage</h1>
 
-## Descrição do Projeto
-
-- TheMovie App feito para estudo  é uma solução vê catalogos de filmes.
-
 
 ### 🛠 Tecnologias
 - [Flutter](https://flutter.dev/)
